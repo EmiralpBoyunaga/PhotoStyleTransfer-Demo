@@ -14,9 +14,9 @@ Veri Seti: 40,000+ görüntü ile eğitilmiştir.
 
 # Desteklenen Fotoğraf Türleri
 Formatlar: JPEG, JPG, PNG, BMP, WEBP
-Renk Modu: RGB (Şeffaf PNG'ler otomatik olarak RGB'ye dönüştürülür) |
-Boyut: Herhangi bir çözünürlük (Uygulama içinde 512px'e optimize edilir) |
-Öneri: Net hatlara sahip manzara ve şehir fotoğrafları Van Gogh stilini en iyi yansıtan sonuçları verir. |
+Renk Modu: RGB (Şeffaf PNG'ler otomatik olarak RGB'ye dönüştürülür)
+Boyut: Herhangi bir çözünürlük (Uygulama içinde 512px'e optimize edilir)
+Öneri: Net hatlara sahip manzara ve şehir fotoğrafları Van Gogh stilini en iyi yansıtan sonuçları verir.
 
 # Kurulum
 Projeyi çalıştırmak için aşağıdaki kütüphaneleri yükleyin:
